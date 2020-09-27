@@ -1,8 +1,7 @@
 # Skeleton base project
 Base skeleton package structure with gradle.
 
-
-###Project package structure
+#### Project package structure
 
     |- Domain-name(i.e Customer)
         |- config 
